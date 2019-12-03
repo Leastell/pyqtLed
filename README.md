@@ -8,7 +8,7 @@ you can also initialize it with a color already selected by specifying in-line
 `led1 = QtLed("green")`
 
 Change LED color at will by using
-`variableName.changeColor("<color name>")`
+`<variableName>.changeColor("<color name>")`
 
 the currently available colors are as follows:
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `"red"`
