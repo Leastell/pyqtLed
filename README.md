@@ -1,4 +1,4 @@
-# pyqtLed
+# PyQT5 Indicator LEDs
 pyqtLed is a simple importable custom widget for LED-like indicators in PyQT5.
 
 to create a new led instance, simply assign it like so:
